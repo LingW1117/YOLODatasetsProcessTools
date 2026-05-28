@@ -1,0 +1,8 @@
+opencv-python>=4.5
+numpy>=1.21
+Pillow>=9.0
+requests>=2.25
+PyMuPDF>=1.19
+click>=8.0
+openai>=1.0
+
