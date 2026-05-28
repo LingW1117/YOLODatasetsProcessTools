@@ -54,7 +54,7 @@ yolo-tools dataset split --src ./raw_dataset --dst ./split_dataset \
 | [`find_files_with_label`](#find_files_with_label) | List label files containing a specific class ID |
 | [`draw_labels`](#draw_labels) | Draw YOLO labels on images and save annotated results |
 | [`convert_to_yoloclass`](#convert_to_yoloclass) | Convert class name to class ID |
-| `get_category_by_index` | Convert class ID to class name |
+| [`get_category_by_index`](#convert_to_yoloclass) | Convert class ID to class name |
 
 ### dataset -- Dataset Organization
 

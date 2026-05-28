@@ -54,7 +54,7 @@ yolo-tools dataset split --src ./raw_dataset --dst ./split_dataset \
 | [`find_files_with_label`](#find_files_with_label) | 查找包含指定类别 ID 的标签文件 |
 | [`draw_labels`](#draw_labels) | 在图片上绘制 YOLO 标签框并保存标注结果 |
 | [`convert_to_yoloclass`](#convert_to_yoloclass) | 类别名称转类别 ID |
-| `get_category_by_index` | 类别 ID 转类别名称 |
+| [`get_category_by_index`](#convert_to_yoloclass) | 类别 ID 转类别名称 |
 
 ### dataset - 数据集整理
 
